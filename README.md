@@ -1,6 +1,6 @@
 # react-admin-google-autocomplete
 Google Autocomplete input for [react-admin](https://marmelab.com/react-admin/) projects.
-![RAGoogleAutocomplete](https://user-images.githubusercontent.com/36671173/122772124-f7439800-d29e-11eb-883f-cb299fa34e0a.jpg)
+<img width="540" alt="reactadmingoogleautocomplete" src="https://user-images.githubusercontent.com/36671173/122773070-ea737400-d29f-11eb-9307-a957645f7c8d.png">
 
 # Install 🛠️
 At the moment this action is not available but you can get the source from the repository.
