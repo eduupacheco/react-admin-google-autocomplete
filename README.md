@@ -1,10 +1,10 @@
 # react-admin-google-autocomplete
 Google Autocomplete input for [react-admin](https://marmelab.com/react-admin/) projects.
 
-# Install
+# Install 🛠️
 At the moment this action is not available but you can get the source from the repository.
 
-# Usage
+# Usage 📝
 The way to use it is simple. As if it were one more component of [react-admin](https://marmelab.com/react-admin/).
 
 ```jsx
@@ -29,11 +29,12 @@ export const EntityEdit = props => (
 
 Don't forget to insert your [Google apiKey](https://console.cloud.google.com/apis/credentials?) and enter the entity property (source).
 
-# Preview
+# Preview 👁️
 This is an example of how ReactAdminGoogleAutocomplete would look in your project:
+
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/36671173/122769213-476d2b00-d29c-11eb-957d-3a9a13050a30.gif)
 
-# Props
+# Props 📋
 These are the properties that are associated with **ReactAdminGoogleAutocomplete** component:
 
 |Prop|Required|Type|Default|Description
