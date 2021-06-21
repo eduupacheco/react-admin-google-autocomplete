@@ -26,7 +26,7 @@ export const EntityEdit = props => (
 ```
 # Props
 
-|Prop|Type|Description|Default|
+|Prop|Required|Type|Default|Description
 |:---:|:---:|:---:|:---:|
 |googleKey|**string**|the google aplication key for your map|
 |source|**string**|source field in your resource model|
@@ -35,7 +35,7 @@ export const EntityEdit = props => (
 
 # Props
 
-|Prop|Required|Type||Default|Description
+|Prop|Required|Type|Default|Description
 |:---:|:---:|:---:|:---:|:---:|
 
 |apiKey|Required|**string**||The google aplication key.|
