@@ -25,6 +25,9 @@ export const EntityEdit = props => (
 );
 ```
 
+# Preview
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/36671173/122769213-476d2b00-d29c-11eb-957d-3a9a13050a30.gif)
+
 # Props
 
 |Prop|Required|Type|Default|Description
