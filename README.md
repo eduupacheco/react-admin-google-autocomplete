@@ -27,7 +27,7 @@ export const EntityEdit = props => (
 
 # Props
 
-|Prop|Required|Type||Default|Description|
+|Prop|Required|Type||Default|Description
 |:---:|:---:|:---:|:---:|:---:|
 
 
