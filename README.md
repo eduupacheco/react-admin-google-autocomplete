@@ -27,14 +27,14 @@ export const EntityEdit = props => (
 );
 ```
 
-Don't forget to insert your [Google apiKey]https://console.cloud.google.com/apis/credentials? and enter the entity property (source).
+Don't forget to insert your [Google apiKey](https://console.cloud.google.com/apis/credentials?) and enter the entity property (source).
 
 # Preview
-This is an example of how ReactAdminGoogleAutocomplete would look in your project.
+This is an example of how ReactAdminGoogleAutocomplete would look in your project:
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/36671173/122769213-476d2b00-d29c-11eb-957d-3a9a13050a30.gif)
 
 # Props
-These are the properties that are associated with ReactAdminGoogleAutocomplete component:
+These are the properties that are associated with **ReactAdminGoogleAutocomplete** component:
 
 |Prop|Required|Type|Default|Description
 |:---:|:---:|:---:|:---:|:---:|
