@@ -75,7 +75,6 @@ const ReactAdminGoogleAutocompleteInput = ({ source, label, validate, variant, c
 
     return (
         <Autocomplete
-            className="m-0 p-0"
             id="google-map-demo"
             getOptionLabel={(option) => (typeof option === 'string' ? option : option.description)}
             filterOptions={(x) => x}
