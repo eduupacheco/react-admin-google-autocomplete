@@ -2,7 +2,7 @@
 Google Autocomplete input for [react-admin](https://marmelab.com/react-admin/) projects.
 
 <p align="center">
-  <img width="340" alt="reactadmingoogleautocomplete" src="https://user-images.githubusercontent.com/36671173/122773131-fbbc8080-d29f-11eb-98d3-b6ce60c58aa7.png">
+  <img width="240" alt="reactadmingoogleautocomplete" src="https://user-images.githubusercontent.com/36671173/122773131-fbbc8080-d29f-11eb-98d3-b6ce60c58aa7.png">
 </p>
 
 # Install 🛠️
